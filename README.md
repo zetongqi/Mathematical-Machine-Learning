@@ -39,4 +39,4 @@ Distance measure of two distributions
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\theta_{n}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{\theta_{n}}" title="\hat{\theta_{n}}" /></a> is a parameter from the family that maximize the likelihood or minimizes the loss.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\theta_{n}}&space;\stackrel{asymp}\sim&space;\mathcal{N}(\theta^{*},\,n^{-1}I^{-1}(\theta^{*}))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{\theta_{n}}&space;\stackrel{asymp}\sim&space;\mathcal{N}(\theta^{*},\,n^{-1}I^{-1}(\theta^{*}))" title="\hat{\theta_{n}} 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\theta_{n}}&space;\stackrel{asymp}\sim&space;\mathcal{N}(\theta^{*},\,n^{-1}I^{-1}(\theta^{*}))" target="_blank"><img 
