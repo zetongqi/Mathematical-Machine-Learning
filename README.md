@@ -37,3 +37,6 @@ Distance measure of two distributions
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\theta^{\star}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\theta^{\star}" title="\theta^{\star}" /></a> is a parameter from the family of all posible <a href="https://www.codecogs.com/eqnedit.php?latex=\Theta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\Theta" title="\Theta" /></a> that parameterize the function <a href="https://www.codecogs.com/eqnedit.php?latex=f(x|\theta)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f(x|\theta)" title="f(x|\theta)" /></a>
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\theta_{n}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{\theta_{n}}" title="\hat{\theta_{n}}" /></a> is a parameter from the family that maximize the likelihood or minimizes the loss.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\hat{\theta_{n}}&space;\stackrel{asymp}\sim&space;\mathcal{N}(\theta^{*},\,n^{-1}I^{-1}(\theta^{*}))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{\theta_{n}}&space;\stackrel{asymp}\sim&space;\mathcal{N}(\theta^{*},\,n^{-1}I^{-1}(\theta^{*}))" title="\hat{\theta_{n}} 
